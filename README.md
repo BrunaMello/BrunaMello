@@ -4,7 +4,7 @@ My name is Bruna Mello and I'm a backend developer who loves Java and Database t
 
 In my free time, I like to play guitar, to read and to play videogames. 
 
-Twitter Blog GitHub LinkedIn
+ [LinkedIn](https://www.linkedin.com/in/brunacrespomello/)
 
 :information_desk_person: Status
 
