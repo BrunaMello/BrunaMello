@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello, everyone! 👋 :stuck_out_tongue_winking_eye:
 
-<!--
-**BrunaMello/BrunaMello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bruna Mello and I'm a backend developer who loves Java and Database techonologies.
 
-Here are some ideas to get you started:
+In my free time, I like to play guitar, to read and to play videogames. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter Blog GitHub LinkedIn
+
+:information_desk_person: Status
+
+🔭 I’m currently looking for my first chance to start on IT Developer. :computer:
+
+🌱 I'm looking for a :baby:  Junior Developer position. If you know someplace that needs for a Junior Developer please tell me :stuck_out_tongue_closed_eyes:
+
+👩‍💻 Technologies I like and work with
+* Java 
+* Python 
+* Javascript 
+* HTML5 
+* CSS3 
+* GitHub Git
