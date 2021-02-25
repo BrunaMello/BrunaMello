@@ -13,7 +13,10 @@ In my free time, I like to play guitar, to read and to play videogames.
 🌱 I'm looking for a :baby:  Junior Developer position. If you know someplace that needs for a Junior Developer please tell me :stuck_out_tongue_closed_eyes:
 
 👩‍💻 Technologies I like and work with
-* Java 
+* Java
+* SQL
+* PL/SQL
+* MySQL, Oracle, Postgres 
 * Python 
 * Javascript 
 * HTML5 
