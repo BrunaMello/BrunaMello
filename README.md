@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-4034
-Fork on GitHub
-738
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Bruna Mello</h1>
 <h3 align="center">A passionate backend developer and data science analysis from Brasil</h3>
 
