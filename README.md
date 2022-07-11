@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunamello&label=Profile%20views&color=0e75b6&style=flat" alt="brunamello" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunamello" alt="brunamello" /></a> </p>
-
 - 🔭 I’m currently looking to **My First Job in IT**
 
 - 🌱 I’m currently learning **Java Spring, Data Science Analysis and Database Administration**
