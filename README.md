@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently looking to **My First Job in IT**
 
-- 🌱 I’m currently learning **Java Spring, Data Science Analysis and Database Administration**
+- 🌱 Learning **Java, Python, Data Science Analysis and Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrunaMello?tab=repositories](https://github.com/BrunaMello?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Pandas, Spring.**
+- 💬 Ask me about **Java, Python, JavaScript**
 
 - 📫 How to reach me **brunacrespomello@gmail.com**
 
