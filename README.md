@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunamello&label=Profile%20views&color=0e75b6&style=flat" alt="brunamello" /> </p>
 
 <h1 align="center">Hi 👋, I'm Bruna Mello</h1>
-<h3 align="center">A passionate Junior Mobile Developer from Brasil</h3>
+<h3 align="center">A passionate Junior Mobile and Web Developer from Brasil</h3>
 
 
-<p>Hi there! I'm a junior mobile developer with a passion for creating intuitive and user-friendly mobile apps. I have experience in developing native mobile applications for both iOS and Android platforms using Swift, Kotlin, and Java programming languages.
+<p>Hi there! I'm a junior mobile developer with a passion for creating intuitive and user-friendly mobile apps. I have experience in developing native mobile applications for both iOS and Android platforms using Swift, Kotlin, and Python programming languages.
 
 On my GitHub profile, you'll find some of my personal and school projects that showcase my skills and creativity in mobile app development. I love exploring new frameworks and tools that can help me build better apps and improve my coding efficiency. I'm always eager to learn new things and improve my coding skills.
 
